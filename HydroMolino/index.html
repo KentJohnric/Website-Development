@@ -1,12 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Glass Website</title>
-    <link rel="stylesheet" href="./style.css" />
-  </head>
-  <body>
-      
-  </body>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+
+    <!--OWL-Carousel-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" 
+    integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" />
+
+    <!--Font Awesome CDN-->
+    <script src="https://kit.fontawesome.com/53013b552f.js" crossorigin="anonymous"></script>
+
+    <!--Custom Style-->
+    <link rel="stylesheet" href="./css/Style.css">
+</head> 
+<body>
+    <div class="container">
+        <div class="panel">
+            <div class="row">
+                <div class="col liquid">
+                    <h4><i class="fas fa-tint"></i>HydroMolino</h4>
+                    <!--OWL Carousel-->
+                    <div class="owl-carousel owl-theme">
+                        <img src="./assets/undraw_energizer_2224.svg" alt="" class="login_img">
+                        <img src="./assets/Logo.jpg" alt="" class="login_img">
+                        <img src="./assets/banner.png" alt="" class="login_img">
+                    </div>
+                    <!--/OWL Carousel-->
+
+                    <div class="follow">
+                        Follow us <i class="fab fa-facebook"></i>
+                    </div>
+                </div>
+                <div class="col"></div>
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" 
+    integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous"></script>
+
+    <script>
+        $(document).ready(function(){
+            $('.owl-carousel').owlCarousel({
+                loop: true,
+                autoPlay: true,
+                autoPlayTimeout: 2000,
+                autoPlayHover: true,
+                items: 1
+            });
+        });
+    </script>
+</body>
 </html>
