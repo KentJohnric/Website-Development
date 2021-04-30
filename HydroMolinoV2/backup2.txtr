@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HydroMolino | Contact Us Page</title>
+    <link rel="stylesheet" href="./css/contactUsStyles.css" />
+  </head>
+  <body>
+    <div class="header">
+      <div class="container">
+        <div class="navbar">
+          <div class="logo">
+            <img src="./assets/LogoFinalBanner.png" width="300px" />
+          </div>
+          <nav>
+            <ul>
+              <li><a href="mainPage.html">Home</a></li>
+              <li><a href="./productPage.html">Products</a></li>
+              <li><a href="./contactUs.html">Contact Us</a></li>
+            </ul>
+          </nav>
+          <img
+            src="./assets/iconmonstr-shopping-cart-24.svg"
+            width="30px"
+            height="30px"
+          />
+        </div>
+        <div class="row">
+          <div class="col-2">
+            <h1>
+              Call Now!<br />
+              09178692329
+            </h1>
+            <p>
+              Address:<br />177 Molino Road, Molino 2 <br />
+              Bacoor<br />
+              4102 Cavite<br />Philippines
+            </p>
+            <a href="https://www.facebook.com/www.hydromolino/" class="btn"
+              >Explore Now <i class="fas fa-arrow-circle-right"></i
+            ></a>
+          </div>
+          <div class="col-2">
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3864.2287244388554!2d120.97192441483804!3d14.413974289921546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397d3b8d2e5a9e5%3A0xf5c2270eb8dc7a33!2sHYDROMOLINO!5e0!3m2!1sen!2sph!4v1619770195687!5m2!1sen!2sph"
+              width="800"
+              height="600"
+              style="border: 0"
+              allowfullscreen=""
+              loading="lazy"
+            ></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

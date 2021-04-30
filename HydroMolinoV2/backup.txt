@@ -1,0 +1,138 @@
+      <div class="small-container">
+        <h2 class="title">Products</h2>
+        <div class="row">
+          <div class="col-4">
+            <img src="./assets/featured/gallonsquare.jpg" alt="" />
+            <h4>Refill Mineral 1 Gallon Blue Container[Square Type]</h4>
+            <div class="rating">
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="far fa-star"></i>
+            </div>
+            <p>₱20</p>
+          </div>
+          <div class="col-4">
+            <img src="./assets/featured/gallonsquare.jpg" alt="" />
+            <h4>Refill Purified 1 Gallon Blue Container[Square Type]</h4>
+            <div class="rating">
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star-half-alt"></i>
+            </div>
+            <p>₱25</p>
+          </div>
+          <div class="col-4">
+            <img src="./assets/featured/gallonsquare.jpg" alt="" />
+            <h4>Refill Alkaline 1 Gallon Blue Container[Square Type]</h4>
+            <div class="rating">
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+            </div>
+            <p>₱30</p>
+          </div>
+          <div class="col-4">
+            <img src="./assets/featured/bottlewater.jpg" alt="" />
+            <h4>Bottled Water 500ML</h4>
+            <div class="rating">
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="far fa-star"></i>
+            </div>
+            <p>₱10</p>
+          </div>
+          <div class="col-4">
+            <img src="./assets/featured/gallonRounded.jpg" alt="" />
+            <h4>Refill Mineral 1 Gallon Blue Container[Round Type]</h4>
+            <div class="rating">
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="far fa-star"></i>
+            </div>
+            <p>₱20</p>
+          </div>
+          <div class="col-4">
+            <img src="./assets/featured/gallonRounded.jpg" alt="" />
+            <h4>Refill Alkaline 1 Gallon Blue Container[Round Type]</h4>
+            <div class="rating">
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="far fa-star"></i>
+            </div>
+            <p>₱30</p>
+          </div>
+          <div class="col-4">
+            <img src="./assets/featured/gallonRounded.jpg" alt="" />
+            <h4>Refill Purified 1 Gallon Blue Container[Round Type]</h4>
+            <div class="rating">
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="far fa-star"></i>
+            </div>
+            <p>₱25</p>
+          </div>
+          <div class="col-4">
+            <img src="./assets/featured/gallonsquare.jpg" alt="" />
+            <h4>1 Gallon Blue Container[Square Type]</h4>
+            <div class="rating">
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="far fa-star"></i>
+            </div>
+            <p>₱125</p>
+          </div>
+          <div class="col-4">
+            <img src="./assets/featured/gallonRounded.jpg" alt="" />
+            <h4>1 Gallon Blue Container[Round Type]</h4>
+            <div class="rating">
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="far fa-star"></i>
+            </div>
+            <p>₱130</p>
+          </div>
+          <div class="col-4">
+            <img src="./assets/featured/gallonsquare.jpg" alt="" />
+            <h4>1 Gallon Blue Container[Square Type][W/Water][Any Type]</h4>
+            <div class="rating">
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="far fa-star"></i>
+            </div>
+            <p>₱150</p>
+          </div>
+          <div class="col-4">
+            <img src="./assets/featured/gallonRounded.jpg" alt="" />
+            <h4>1 Gallon Blue Container[Round Type][W/Water][Any Type]</h4>
+            <div class="rating">
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="far fa-star"></i>
+            </div>
+            <p>₱150</p>
+          </div>
+        </div>
+      </div>
+    </div>
